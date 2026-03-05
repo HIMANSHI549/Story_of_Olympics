@@ -20,6 +20,6 @@ Skills Involved:
 
 -> Data Cleaning and Data Preparation
 
-Comparative Data Analysis
+-> Comparative Data Analysis
 
-Data Storytelling and Insight Generation
+-> Data Storytelling and Insight Generation
